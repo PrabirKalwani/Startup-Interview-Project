@@ -64,7 +64,7 @@ export const feedback = [
       "lorem ipsum dolor sit amet , consectetur adipiscing elit .",
     name: "GoatedxTypescript",
     title: "PM at Meta",
-    img: people01,
+    img: people03,
   },
   {
     id: "feedback-2",
@@ -78,7 +78,7 @@ export const feedback = [
     id: "feedback-3",
     content:
       "lorem ipsum dolor sit amet , consectetur adipiscing elit .",
-    name: "Kenn Gallagher",
+    name: "GoatedxTypescript",
     title: "PM at Meta",
     img: people03,
   },
