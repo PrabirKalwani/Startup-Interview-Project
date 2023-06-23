@@ -13,7 +13,7 @@ RUN npm install
 # Copy the rest of the application files to the container
 COPY . .
 
-EXPOSE 5173
+EXPOSE 5169
 
 # Start the application with the development server
 CMD ["npm", "run", "dev"]
