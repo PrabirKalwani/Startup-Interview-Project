@@ -25,9 +25,8 @@ const Business = () =>  (
         Keep Calm , <br className="sm:block hidden" /> And Grab 
         the money.
       </h2>
-      <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
-        Lorem, ipsum dolor sit amet consectetur adipisicing elit. Cupiditate nemo ratione expedita, sint quos tenetur eligendi magnam dicta minus quibusdam? Distinctio animi voluptas ea temporibus quidem molestiae mollitia nesciunt qui.
-      </p>
+      <p className={`${styles.paragraph} max-w-[470px] mt-5`}> Protract Solutions where innovation drives efficiency in the digital age. Our mission is to empower you with cutting-edge software that simplifies complexity, boosts productivity, and transforms work processes. Whether you're a startup streamlining operations, a growing enterprise optimizing performance, or an individual seeking user-friendly tools, [Your SaaS Name] has the solution. Join us to unlock the potential of cloud-based technology and embrace the future of SaaS excellence. Explore the future with us today.
+</p>
 
       <Button styles={`mt-10`} />
     </div>

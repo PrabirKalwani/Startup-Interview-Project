@@ -14,11 +14,11 @@ import {
 export const navLinks = [
   {
     id: "home",
-    title: "About Us",
+    title: "Home",
   },
   {
     id: "features",
-    title: "Remind Me",
+    title: "Check Out Our Prototype",
   },
 ];
 
@@ -26,62 +26,64 @@ export const features = [
   {
     id: "feature-1",
     icon: star,
-    title: "customer acquisition costs",
-    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    title: "Customer Costs",
+    content: "Optimize your expenses with cost-effective solutions.",
   },
   {
     id: "feature-2",
     icon: shield,
-    title: "lifetime value",
-    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    title: "Lifetime Value",
+    content: "Your unique code is yours forever, ensuring long-term value.",
   },
   {
     id: "feature-3",
     icon: send,
-    title: "retention metrics",
-    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    title: "Retention Metrics",
+    content: "Enhance customer retention with our impeccable designs.",
   },
   {
-    id: "feature-1",
+    id: "feature-4",
     icon: star,
-    title: "aggregator platform managements",
-    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    title: "Platform Management",
+    content:
+      "Leverage AWS, Vercel, and professional platforms for maximum uptime.",
   },
   {
-    id: "feature-2",
+    id: "feature-5",
     icon: shield,
-    title: "sentiment analysis",
-    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    title: "Sentiment Analysis",
+    content:
+      "Understand and analyze consumer needs with advanced sentiment analysis.",
   },
   {
-    id: "feature-3",
+    id: "feature-6",
     icon: send,
-    title: "online reputation management",
-    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    title: "Online Reputation Management",
+    content: "Benefit from our expert online reputation management services.",
   },
 ];
 
 export const feedback = [
   {
     id: "feedback-1",
-    content: "lorem ipsum dolor sit amet , consectetur adipiscing elit .",
-    name: "GoatedxTypescript",
-    title: "PM at Meta",
+    content: "Amazing Websites With Amazing People designing them ",
+    name: "Shahshank Jain",
+    title: "India",
     img: people03,
   },
   {
     id: "feedback-2",
-    content: "lorem ipsum dolor sit amet , consectetur adipiscing elit .",
-    name: "GoatedxTypescript",
-    title: "PM at Meta",
+    content: "Clean Designs",
+    name: "Meet Agarwal",
+    title: "United Kingdom",
     img: people02,
   },
   {
     id: "feedback-3",
-    content: "lorem ipsum dolor sit amet , consectetur adipiscing elit .",
-    name: "GoatedxTypescript",
-    title: "PM at Meta",
-    img: people03,
+    content: "Clear Designs and amazing network infrastructure",
+    name: "Sam Curry",
+    title: "United States",
+    img: people01,
   },
 ];
 

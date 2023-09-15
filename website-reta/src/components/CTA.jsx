@@ -4,9 +4,9 @@ import Button from "./Button";
 const CTA = () => (
   <section className={`${styles.flexCenter} ${styles.marginY} ${styles.padding} sm:flex-row flex-col bg-black-gradient-2 rounded-[20px] box-shadow`}>
     <div className="flex-1 flex flex-col">
-      <h2 className={styles.heading2}>Let’s try Our app soon!!!!</h2>
+      <h2 className={styles.heading2}>Let’s try Our app !!!!</h2>
       <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
-      Are you looking for an app that simplifies your life? Look no further! Our app is coming soon to the App Store!
+      Are you looking for an app that simplifies your life? Look no further! 
       </p>
     </div>
 
