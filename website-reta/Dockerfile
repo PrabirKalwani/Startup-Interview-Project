@@ -1,7 +1,7 @@
 # Use an official Node.js runtime as a parent image
 FROM node:16-alpine3.14
 
-# Set the working directory to /app
+# Set the working di ¸rectory to /app
 WORKDIR /app
 
 # Copy the package.json and package-lock.json files to the container
